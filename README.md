@@ -2,6 +2,7 @@
     <div align="center">
         <h1> Hi there, I'm Aryan Arshad 👋</h1>
     </div>
+     <img align="right" alt="Coding" width="400" margin-left="50" padding-bottom="80"  src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
     <p align="center">
         <a href="https://github.com/A4-AryanArshad"><img
                 src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Student;%20Web+3.0%20Developer;Always%20learning%20new%20Technology;Music%20Lover&center=true&width=500&height=50"></a>
@@ -9,7 +10,7 @@
 
 
 
- <img align="right" alt="Coding" width="400" margin-left="50" padding-bottom="80"  src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+
  
 - 🔭 I’m currently working on [DeepFake Audio Detection](https://github.com/MarkHershey/AudioDeepFakeDetection.git)
 
