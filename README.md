@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mianahmadbasit1" alt="A4-AryanArshad" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@mianahmadbasit" target="blank"><img src="https://img.shields.io/twitter/follow/@mianahmadbasit?logo=twitter&style=for-the-badge" alt="@mianahmadbasit" /></a> </p>
+
 
 - 🌱 I’m CEO of  ** techhub-- **  
 
